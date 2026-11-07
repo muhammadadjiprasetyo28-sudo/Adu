@@ -1,0 +1,6 @@
+{
+  "name": "Sahabat ADU - Pemetaan Wilayah, Aspirasi & Realisasi",
+  "description": "Aplikasi digital anggota DPRD Aw Maulana dan Uju untuk pemetaan unit relawan RT/RW, aspirasi masyarakat, tindak lanjut, dan realisasi wilayah Pasarkemis & Tangerang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
